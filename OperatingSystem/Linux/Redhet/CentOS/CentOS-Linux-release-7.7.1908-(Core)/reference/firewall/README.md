@@ -24,6 +24,33 @@
 #### Firewall 이 이미 설치되어 있을 수 있습니다.
 > rpm -qa | grep firewalld 명령어를 사용하여 패키지를 검색합니다.  
 
+<br/> 
 
-![firewalld_1](../../images/Firewall/firewalld_1.PNG)
+![firewalld_1](../../../images/Firewall/firewalld_1.PNG)   
+ 
+
+#### 만약 설치가 되어있지 않다면 yum 명령어를 통해 설치할 수 있습니다.
+> yum install firewalld  
+
+
+<br/> 
+
+
+#### 정상적으로 설치되었다면 상태를 확인할 수 있습니다.
+> firewall-cmd --stat  
+
+
+<br/> 
+
+
+![firewalld_2](../../../images/Firewall/firewalld_2.PNG)   
+
+
+<br/> 
+
+
+#### firewall의 실행 및 중지는 systemctl 명령어를 사용합니다.
+
+
+
 
