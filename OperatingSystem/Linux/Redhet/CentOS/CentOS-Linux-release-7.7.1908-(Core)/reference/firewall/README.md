@@ -81,6 +81,8 @@ firewall의 동작은 /etc/firewalld/firewalld.conf에서 지정할 수 있습�
 
 #### 1. firewall-cmd 명령어를 사용하여 zone, service, port 등을 컨트롤할 수 있습니다.  
 
+<br/> 
+
 - 새로운 zone을 생성할 수 있습니다.
 ```
 firewall-cmd --permanent --new-zone=[zone.name]
@@ -130,14 +132,14 @@ firewall-cmd --list-services
 
 <br/> 
 
-서비스를 추가할 수 있습니다.
+- 서비스를 추가할 수 있습니다.
 ```
 firewall-cmd --permanent --zone=[zone.name] --add-service=[service.name]
 ```
 
 <br/> 
 
-서비스를 삭제할 수 있습니다.
+- 서비스를 삭제할 수 있습니다.
 ```
 firewall-cmd --permanent --zone=[zone.name] --add-service=[service.name]
 ```
