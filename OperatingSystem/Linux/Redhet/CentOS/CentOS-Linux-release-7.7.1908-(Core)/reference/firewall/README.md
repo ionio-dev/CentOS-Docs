@@ -22,5 +22,8 @@
 <br/> 
 
 #### Firewall 이 이미 설치되어 있을 수 있습니다.
-> rpm -qa | grep firewalld 명령어를 사용하여 패키지를 검색합니다.
+> rpm -qa | grep firewalld 명령어를 사용하여 패키지를 검색합니다.  
+
+
+![firewalld_1](../../images/Firewall/firewalld_1.PNG)
 
