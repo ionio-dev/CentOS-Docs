@@ -5,4 +5,13 @@
 
 <br/>
 
+## Preferences Guide
 - [CentOS 설치 가이드](https://github.com/ionio-dev/Dev-Docs/blob/master/OperatingSystem/Linux/Redhet/CentOS/Installation_Guide.md)
+
+<br/>
+
+<hr/>
+
+<br/>
+
+## Reference
