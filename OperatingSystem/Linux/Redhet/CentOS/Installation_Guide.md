@@ -141,7 +141,7 @@ CD/DVD 부팅으로 대부분 설정되어 있습니다.**
 
 <br/>
 
-![CentOS7_install_1.PNG](./images/Installation_Guide/CentOS7_install_1.PNG)
+![CentOS7_install_1.PNG](./Resource/Images/Installation_Guide/CentOS7_install_1.PNG)
 
 <br/>
 
@@ -150,7 +150,7 @@ CD/DVD 부팅으로 대부분 설정되어 있습니다.**
 <br/>
 <br/>
 
-![CentOS7_install_2.PNG](./images/Installation_Guide/CentOS7_install_2.PNG)
+![CentOS7_install_2.PNG](./Resource/Images/Installation_Guide/CentOS7_install_2.PNG)
 
 <br/>
 
@@ -159,7 +159,7 @@ CD/DVD 부팅으로 대부분 설정되어 있습니다.**
 <br/>
 <br/>
 
-![CentOS7_install_3.PNG](./images/Installation_Guide/CentOS7_install_3.PNG)
+![CentOS7_install_3.PNG](./Resource/Images/Installation_Guide/CentOS7_install_3.PNG)
 
 <br/>
 
@@ -168,7 +168,7 @@ CD/DVD 부팅으로 대부분 설정되어 있습니다.**
 <br/>
 <br/>
 
-![CentOS7_install_4.PNG](./images/Installation_Guide/CentOS7_install_4.PNG)
+![CentOS7_install_4.PNG](./Resource/Images/Installation_Guide/CentOS7_install_4.PNG)
 
 <br/>
 
@@ -177,7 +177,7 @@ CD/DVD 부팅으로 대부분 설정되어 있습니다.**
 <br/>
 <br/>
 
-![CentOS7_install_5.PNG](./images/Installation_Guide/CentOS7_install_5.PNG)
+![CentOS7_install_5.PNG](./Resource/Images/Installation_Guide/CentOS7_install_5.PNG)
 
 <br/>
 
@@ -188,7 +188,7 @@ CD/DVD 부팅으로 대부분 설정되어 있습니다.**
 <br/>
 <br/>
 
-![CentOS7_install_6.PNG](./images/Installation_Guide/CentOS7_install_6.PNG)
+![CentOS7_install_6.PNG](./Resource/Images/Installation_Guide/CentOS7_install_6.PNG)
 
 <br/>
 
@@ -200,7 +200,7 @@ OS 및 파티션 설정을 할 디스크를 선택한 뒤 기타 저장소 옵�
 <br/>
 <br/>
 
-![CentOS7_install_7.PNG](./images/Installation_Guide/CentOS7_install_7.PNG)
+![CentOS7_install_7.PNG](./Resource/Images/Installation_Guide/CentOS7_install_7.PNG)
 
 <br/>
 
@@ -230,7 +230,7 @@ OS 및 파티션 설정을 할 디스크를 선택한 뒤 기타 저장소 옵�
 <br/>
 <br/>
 
-![CentOS7_install_8.PNG](./images/Installation_Guide/CentOS7_install_8.PNG)
+![CentOS7_install_8.PNG](./Resource/Images/Installation_Guide/CentOS7_install_8.PNG)
 
 <br/>
 
@@ -248,7 +248,7 @@ OS 및 파티션 설정을 할 디스크를 선택한 뒤 기타 저장소 옵�
 <br/>
 <br/>
 
-![CentOS7_install_9.PNG](./images/Installation_Guide/CentOS7_install_9.PNG)
+![CentOS7_install_9.PNG](./Resource/Images/Installation_Guide/CentOS7_install_9.PNG)
 
 <br/>
 
@@ -263,7 +263,7 @@ OS 및 파티션 설정을 할 디스크를 선택한 뒤 기타 저장소 옵�
 <br/>
 <br/>
 
-![CentOS7_install_10.PNG](./images/Installation_Guide/CentOS7_install_10.PNG)
+![CentOS7_install_10.PNG](./Resource/Images/Installation_Guide/CentOS7_install_10.PNG)
 
 <br/>
 
@@ -272,7 +272,7 @@ OS 및 파티션 설정을 할 디스크를 선택한 뒤 기타 저장소 옵�
 <br/>
 <br/>
 
-![CentOS7_install_11.PNG](./images/Installation_Guide/CentOS7_install_11.PNG)
+![CentOS7_install_11.PNG](./Resource/Images/Installation_Guide/CentOS7_install_11.PNG)
 
 <br/>
 
@@ -281,7 +281,7 @@ OS 및 파티션 설정을 할 디스크를 선택한 뒤 기타 저장소 옵�
 <br/>
 <br/>
 
-![CentOS7_install_12.PNG](./images/Installation_Guide/CentOS7_install_12.PNG)
+![CentOS7_install_12.PNG](./Resource/Images/Installation_Guide/CentOS7_install_12.PNG)
 
 <br/>
 
@@ -290,7 +290,7 @@ OS 및 파티션 설정을 할 디스크를 선택한 뒤 기타 저장소 옵�
 <br/>
 <br/>
 
-![CentOS7_install_13.PNG](./images/Installation_Guide/CentOS7_install_13.PNG)
+![CentOS7_install_13.PNG](./Resource/Images/Installation_Guide/CentOS7_install_13.PNG)
 
 <br/>
 
@@ -300,7 +300,7 @@ OS 및 파티션 설정을 할 디스크를 선택한 뒤 기타 저장소 옵�
 <br/>
 <br/>
 
-![CentOS7_install_14.PNG](./images/Installation_Guide/CentOS7_install_14.PNG)
+![CentOS7_install_14.PNG](./Resource/Images/Installation_Guide/CentOS7_install_14.PNG)
 
 <br/>
 
