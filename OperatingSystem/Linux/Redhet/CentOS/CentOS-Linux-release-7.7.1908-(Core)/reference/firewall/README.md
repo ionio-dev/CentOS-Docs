@@ -28,7 +28,7 @@ rpm -qa | grep firewalld
 
 <br/> 
 
-![firewalld_1](../../../images/Firewall/firewalld_1.PNG)   
+![firewalld_1](../../../Resource/Images/Firewall/firewalld_1.PNG)   
  
 
 #### 만약 설치가 되어있지 않다면 yum 명령어를 통해 설치할 수 있습니다.
@@ -49,7 +49,7 @@ firewall-cmd --stat
 <br/> 
 
 
-![firewalld_2](../../../images/Firewall/firewalld_2.PNG)   
+![firewalld_2](../../../Resource/Images/Firewall/firewalld_2.PNG)   
 
 
 <br/> 
