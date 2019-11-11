@@ -99,7 +99,7 @@ firewall-cmd --reload
 
 - 생성된 zone을 삭제 수 있습니다.
 ```
-firewall-cmd --permanent --delete-zone=webserver
+firewall-cmd --permanent --delete-zone=[zone.name]
 ```
 
 <br/> 
@@ -153,21 +153,21 @@ firewall-cmd --permanent --zone=[zone.name] --add-service=[service.name]
 
 지정  zone에 포트를 추가할 수 있습니다.
 ```
-firewall-cmd --permanent --zone=[znoe] --add-port=[port]/[tcp or udp]
+firewall-cmd --permanent --zone=[zone.name] --add-port=[port]/[tcp or udp]
 ```
 
 <br/> 
 
 지정 zone에 포트 범위를 추가할 수 있습니다.
 ```
-firewall-cmd --permanent --zone=[znoe] --add-port=[startport-endport]/[tcp or udp]
+firewall-cmd --permanent --zone=[znoe.name] --add-port=[startport-endport]/[tcp or udp]
 ```
 
 <br/> 
 
 지정  zone에 포트를 삭제할 수 있습니다.
 ```
-firewall-cmd --permanent --zone=[znoe] --remove-port=[port]/[tcp or udp]
+firewall-cmd --permanent --zone=[znoe.name] --remove-port=[port]/[tcp or udp]
 ```
 
 <br/> 
