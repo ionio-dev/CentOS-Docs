@@ -7,7 +7,7 @@
 
 ## Preferences Guide
 - [CentOS 설치 가이드](https://github.com/ionio-dev/Dev-Docs/blob/master/OperatingSystem/Linux/Redhet/CentOS/Installation_Guide.md)
-- [firewall 방화벽 설정](https://github.com/ionio-dev/Dev-Docs/tree/master/OperatingSystem/Linux/Redhet/CentOS/CentOS-Linux-release-7.7.1908-(Core)/reference/firewall)
+- [firewall 방화벽 설정](https://github.com/ionio-dev/Dev-Docs/tree/master/OperatingSystem/Linux/Redhet/CentOS/CentOS-Linux-release-7.7.1908-(Core)/Reference/Firewall)
 
 <br/>
 
