@@ -27,7 +27,7 @@ Everything, Minimal 버전과 다소 차이가 있을 수 있습니다.*
 
 <br/> 
 
-#### Firewall 이 이미 설치되어 있을 수 있습니다.
+#### firewall 이 이미 설치되어 있을 수 있습니다.
 ```
 rpm -qa | grep firewalld
 ```
