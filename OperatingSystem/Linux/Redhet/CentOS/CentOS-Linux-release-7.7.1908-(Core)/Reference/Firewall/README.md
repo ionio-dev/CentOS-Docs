@@ -2,11 +2,6 @@
 
 <br/> 
 
-*해당 가이드라인은 CentOS-Linux-release-7.7.1908-(Core) DVD 기준으로 설명되어 있습니다.*
-
-<br/> 
-<br/> 
-
 #### CentOS 7 서버에 대한 [권장 사항](https://www.digitalocean.com/community/tutorials/additional-recommended-steps-for-new-centos-7-servers) 중 firewalld을 사용하여 방화벽을 구성하는 내용이 추가되어 있습니다.
 
 > RHEL (Red Hat Enterprise Linux) 7 부터는 방화벽을 관리하는 [데몬](https://ko.wikipedia.org/wiki/%EB%8D%B0%EB%AA%AC_(%EC%BB%B4%ED%93%A8%ED%8C%85))이 firewalld로 변경되었습니다.  
