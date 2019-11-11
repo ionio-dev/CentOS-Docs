@@ -9,4 +9,10 @@
 사용자들과 매일 배우고, 익히고, 잃어버릴 미래의 글 작성자에게 도움이 되길 간절히 바랍니다.  
 
 <br/>
+<br/>
 
+## 현재 생성된 레퍼런스
+- Operating System
+  - Linux
+    - Redhet
+      - [CentOS](https://github.com/ionio-dev/Dev-Docs/tree/master/OperatingSystem/Linux/Redhet/CentOS)
