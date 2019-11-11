@@ -2,7 +2,7 @@
 
 <br/> 
 
-*해당 글은 CentOS-Linux-release-7.7.1908-(Core) DVD 기준으로 설명되어 있습니다.  
+*해당 가이드라인은 CentOS-Linux-release-7.7.1908-(Core) DVD 기준으로 설명되어 있습니다.  
 Everything, Minimal 버전과 다소 차이가 있을 수 있습니다.*
 
 <br/> 
