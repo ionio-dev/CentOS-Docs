@@ -10,12 +10,6 @@
 
 <br/> 
 
-#### firewall 관련 가이드를 작성하기 위해서 해당 사이트를 참고 인용하였습니다.
-- [firewalld 방화벽 사용](https://www.lesstif.com/pages/viewpage.action?pageId=43844015)
-- [RHEL/CentOS 7 에서 방화벽(firewalld) 설정하기](https://www.lesstif.com/pages/viewpage.action?pageId=22053128#RHEL/CentOS7%EC%97%90%EC%84%9C%EB%B0%A9%ED%99%94%EB%B2%BD(firewalld)%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-zone)
-
-<br/> 
-
 > RHEL/CentOS 7 부터는 방화벽을 firewalld라는 데몬으로 교체하였고 이에 따라 사용자 레벨의  
 프로그램은 iptables 명령어 대신 명령행에서는 firewall-cmd , GUI 환경에서는 firewall-config를 사용하게 되었습니다.  
 
@@ -199,4 +193,9 @@ firewall-cmd --permanent --zone=[znoe.name] --remove-port=[port]/[tcp or udp]
 firewall-cmd --reload
 ```
 
+<br/> 
+
+#### firewall 관련 가이드를 작성하기 위해서 해당 사이트를 참고 인용하였습니다.
+- [firewalld 방화벽 사용](https://www.lesstif.com/pages/viewpage.action?pageId=43844015)
+- [RHEL/CentOS 7 에서 방화벽(firewalld) 설정하기](https://www.lesstif.com/pages/viewpage.action?pageId=22053128#RHEL/CentOS7%EC%97%90%EC%84%9C%EB%B0%A9%ED%99%94%EB%B2%BD(firewalld)%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-zone)
 
