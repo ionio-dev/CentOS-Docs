@@ -148,18 +148,15 @@ DD 이미지 모드로 쓰기를 이용하여 재시도 하십시오.
 > 부팅 시스템 BIOS(Basic Input Output System)에 진입하여 부팅 모드를 USB 부팅으로 설정 후 부팅을 실행합니다.
 
 <br/>
-<br/>
-
-- 정상적으로 부팅이 된다면 아래와 같은 화면이 출력됩니다.  
-
-<br/>
+<hr/>
 <br/>
 
 ![CentOS7_install_1.PNG](../images/CentOS7_install_1.PNG)
 
 <br/>
 
-- **사진1** 키보드 방향 키를 사용하여 Install CentOS를 선택한 뒤 Enter 키를 누릅니다.
+> 정상적으로 부팅이 된다면 아래와 같은 화면이 출력됩니다.  
+키보드 방향 키를 사용하여 Install CentOS를 선택한 뒤 Enter 키를 누릅니다.
 
 <br/>
 <br/>
