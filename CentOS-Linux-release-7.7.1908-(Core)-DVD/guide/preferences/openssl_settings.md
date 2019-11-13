@@ -81,13 +81,13 @@ make install
 
 #### 동적 라이브러리 설정 파일을 /etc/ld.so.conf.d 하위 경로에 생성해줍니다.
 ```
-vi /etc/ld.so.conf.d/openssl-1.1.1b.conf
+vi /etc/ld.so.conf.d/openssl-1.1.1d.conf
 ```
 
 <br/>
 <br/>
 
-#### openssl-1.1.1b.conf 에 설정할 내용은 아래와 같습니다.
+#### openssl-1.1.1d.conf 에 설정할 내용은 아래와 같습니다.
 ```
 /usr/local/ssl/lib
 ```
@@ -142,4 +142,4 @@ openssl version
 <br/>
 
 #### OpenSSL 관련 가이드를 작성하기 위해서 해당 사이트를 참고 인용하였습니다.
-- [Openssl 1.1.1b 업데이트](https://blanche-star.tistory.com/entry/APM-%EC%84%A4%EC%B9%98-openssl-%EC%B5%9C%EC%8B%A0%EB%B2%84%EC%A0%84%EC%84%A4%EC%B9%98%EC%86%8C%EC%8A%A4%EC%84%A4%EC%B9%98-shared%EC%84%A4%EC%B9%98)
+- [Openssl 1.1.1d 업데이트](https://blanche-star.tistory.com/entry/APM-%EC%84%A4%EC%B9%98-openssl-%EC%B5%9C%EC%8B%A0%EB%B2%84%EC%A0%84%EC%84%A4%EC%B9%98%EC%86%8C%EC%8A%A4%EC%84%A4%EC%B9%98-shared%EC%84%A4%EC%B9%98)
