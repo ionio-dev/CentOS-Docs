@@ -18,8 +18,16 @@ MariaDB가 설치되있는 상태로 MySQL 컴파일 설치를 진행하게 된�
 ```
 rpm -qa | maraidb
 ```
-![MySQL_1.PNG](../Resource/Images/MySQL/MySQL_1.PNG)
+<br/>
 
+![MySQL_1.PNG](../../../Resource/Images/MySQL/MySQL_1.PNG)
+
+
+
+#### MariaDB 제거
+```
+yum remove mariadb*
+```
 
 <br/>
 <br/>
