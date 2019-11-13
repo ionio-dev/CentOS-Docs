@@ -5,6 +5,13 @@
 <br/>
 <br/>
 
+#### ! 참고사항
+> Apache Tomcat을 실행하려면 Java가 이미 설치되어있어야 합니다.  
+Java 설치 가이드는 [여기](https://github.com/ionio-dev/CentOS-Docs/blob/master/CentOS-Linux-release-7.7.1908-(Core)-DVD/guide/java_installation.md)를 참조하십시오.
+
+<br/>
+<br/>
+
 #### Tomcat을 다운로드 합니다.
 > 다운로드 경로는 서버를 구성하는 목적에 따라 달라질 수 있으며 해당 프로젝트는 /usr/local/src 하위 디렉터리에 다운로드 합니다.
 ```
