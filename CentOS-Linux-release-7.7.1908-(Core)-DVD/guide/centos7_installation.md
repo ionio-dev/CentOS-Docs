@@ -48,44 +48,51 @@ set up a local mirror for downloading packages. Note that this image is very lar
 flash drive or other storage.  
 
 
-CentOS에 사용 가능한 설치 프로그램 및 모든 패키지가 포함되어 있으며 추가 패키지로 시스템을 설치하는 데  
-사용할 수 있습니다. 이 이미지는 매우 커서 최소 16GB 플래시 드라이브 또는 기타 저장소가 필요합니다.
+*CentOS에 사용 가능한 설치 프로그램 및 모든 패키지가 포함되어 있으며 추가 패키지로 시스템을 설치하는 데  
+사용할 수 있습니다. 이 이미지는 매우 커서 최소 16GB 플래시 드라이브 또는 기타 저장소가 필요합니다.*
 
+<br/>
 <br/>
 
 #### Minimal
 > Contains the installer and a minimal set of packages which can be used to install a very basic CentOS system.  
 You can then use Yum to download additional packages from update repositories.  
 
+
+*기본 CentOS 시스템을 설치하는 데 사용할 수 있는 설치 프로그램 및 최소 패키지 세트이며 설치 후 Yum 을 사용하여  
+업데이트 리포지토리에서 추가 패키지를 다운로드할 수도 있습니다.*
+
+<br/>
 <br/>
 
-기본 CentOS 시스템을 설치하는 데 사용할 수 있는 설치 프로그램 및 최소 패키지 세트이며 설치 후 Yum 을 사용하여  
-업데이트 리포지토리에서 추가 패키지를 다운로드할 수도 있습니다.  
-
-<br/>
-<br/>
-
+#### ! 참고사항
 글을 기재하는 시점에 CentOS 5.x 버전에서 yum 패키지 매니저가 **공식 지원이 종료**되어  
-안정적으로 **yum을 사용하기 위해서는 최소 6 이상의 버전**을 사용하십시오.
+안정적으로 **yum을 사용하기 위해서는 최소 6 이상의 버전**을 사용하십시오.  
 
-
+<br/>
 <br/>
 
 ### 2. 부팅 전용 USB 만들기
+
+<br/>
+<br/>
 
 **CentOS 공식 문서에서 제시하는 설치 방법은 3가지가 있습니다.**  
 - CD 또는 DVD
 - USB 드라이브
 - 설치 소스를 준비하여 설치
 
+<br/>
+<br/>
 
-> 해당 글은 USB 드라이브를 사용하여 설치하는 방법으로 기재되어 있습니다.  
+#### ! 참고사항
+해당 글은 **USB 드라이브를 사용하여 설치하는 방법**으로 기재되어 있습니다.  
 다른 방법으로 설치하기를 원하거나 방법이 궁금하다면 [CentOS install guide](https://docs.centos.org/en-US/centos/install-guide)를 참조하십시오.  
+또한 부팅 전용 USB를 만들기 위해서는 해당 .iso 파일의 크기를 담을 수 있을 정도의 용량의  
+(DVD 기준  약 4.3G, Everything 기준 약 10G) USB 가 필요하며 해당 USB에 보관된 자료가  
+존재한다면 **포맷(초기화)가 진행되니 미리 백업해두시길 권장합니다.**  
 
-
-부팅 전용 USB를 만들기 위해서는 해당 .iso 파일의 크기를 담을 수 있을 정도의 용량의 (DVD 기준  약 4.3G, 
-Everything 기준 약 10G) USB 가 필요하며 해당 USB에 보관된 자료가 존재한다면 **포맷(초기화)가 진행되니 미리 백업해두시길 권장합니다.**
-
+<br/>
 <br/>
 
 **부팅 USB를 만들어주는 소프트웨어 Rufus를 [설치](https://rufus.ie/)합니다.**
@@ -93,9 +100,12 @@ Everything 기준 약 10G) USB 가 필요하며 해당 USB에 보관된 자료�
 무료 오픈 소스 휴대용 응용 프로그램입니다.
 
 <br/>
+<br/>
 
 **1. Rufus를 실행한 뒤 '장치'에서 마운트 된 USB (부팅 USB로 사용할 장치) 선택합니다.**  
 
+<br/>
+<br/>
 
 **2. '디스크 형식과 부팅 시스템 유형'에 첫 번째 'MBR 파티션 형식의 BIOS 또는 UEFI(BIOS 호환)' 선택합니다.**  
 - MBR 파티션 형식의 BIOS 또는 UEFI (BIOS 호환)
@@ -107,18 +117,24 @@ Everything 기준 약 10G) USB 가 필요하며 해당 USB에 보관된 자료�
 - GPT 파티션 형식의 UEFI
 > EFI 모드에서 운영체제를 설치하는 기본 옵션입니다. Windows XP에서는 USB에 액세스할 필요가 없을 때 선택하십시오.  
 
+<br/>
+<br/>
+
 **3. '파일시스템'은 FAT32 기본으로 선택합니다.**  
 
+<br/>
+<br/>
 
 **4. '할당단위 크기' default(기본) 선택합니다.**  
 
+<br/>
+<br/>
 
 **5. 포맷 옵션 (옵션은 경우에 따라 변경될 수 있습니다. 옵션 상세설명은 [여기](http://korean-daeddo.blogspot.com/2016/01/rufus-usb-winpe.html)를 참조하십시오)**  
 - 빠른 포맷 체크
 - 부팅 가능한 디스트 만들기 체크 (다운로드 한 .iso 파일 선택)
 - 확장 레이블 및 아이콘 파일 만들기 체크 
 
-<br/>
 
 시작 버튼을 누르면 안내 창이 뜨며 ISO 이미지 모드로 쓰기(권장), DD 디스크 이미지 모드로 쓰기 중  
 ISO 이미지 모드로 쓰기를 선택합니다. 
@@ -126,20 +142,17 @@ ISO 이미지 모드로 쓰기를 선택합니다.
 DD 이미지 모드로 쓰기를 이용하여 재시도 하십시오.  
 
 <br/>
+<br/>
 
 ### 3. USB를 설치할 PC(장비)에 연결하여 부팅합니다.
+> 부팅 시스템 BIOS(Basic Input Output System)에 진입하여 부팅 모드를 USB 부팅으로 설정 후 부팅을 실행합니다.
 
-부팅 시스템 BIOS(Basic Input Output System)에 진입하여  
-부팅 모드를 USB 부팅으로 설정 후 부팅을 실행합니다.
-> 재설치 또는 부팅 옵션설정이 안되있는경우에 한합니다.
-
-**OS가 설치되어 있지 않은 새 PC(장비)의 경우 기본 부팅 옵션이 USB 부팅 또는  
-CD/DVD 부팅으로 대부분 설정되어 있습니다.**
-
+<br/>
 <br/>
 
 - 정상적으로 부팅이 된다면 아래와 같은 화면이 출력됩니다.  
 
+<br/>
 <br/>
 
 ![CentOS7_install_1.PNG](../images/CentOS7_install_1.PNG)
