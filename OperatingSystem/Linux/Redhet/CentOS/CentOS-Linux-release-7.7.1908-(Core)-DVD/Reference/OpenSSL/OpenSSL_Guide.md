@@ -159,5 +159,5 @@ openssl version
 <br/>
 
 
-#### firewall 관련 가이드를 작성하기 위해서 해당 사이트를 참고 인용하였습니다.
+#### OpenSSL 관련 가이드를 작성하기 위해서 해당 사이트를 참고 인용하였습니다.
 - [Openssl 1.1.1b 업데이트](https://blanche-star.tistory.com/entry/APM-%EC%84%A4%EC%B9%98-openssl-%EC%B5%9C%EC%8B%A0%EB%B2%84%EC%A0%84%EC%84%A4%EC%B9%98%EC%86%8C%EC%8A%A4%EC%84%A4%EC%B9%98-shared%EC%84%A4%EC%B9%98)
