@@ -74,7 +74,7 @@ javac -version
 
 #### 환경변수가 정상적으로 등록되었는지 확인합니다.
 ```
-echo $JAVA_HOEM
+echo $JAVA_HOME
 ```
 
 <br/>
