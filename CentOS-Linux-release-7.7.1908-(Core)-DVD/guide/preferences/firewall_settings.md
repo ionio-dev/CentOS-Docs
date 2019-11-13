@@ -60,7 +60,7 @@ systemctl stop firewalld
 <br/> 
 
 
-firewall의 기본 설정 파일은 /usr/lib/firewalld/에 위치하고 있으며  
+>firewall의 기본 설정 파일은 /usr/lib/firewalld/에 위치하고 있으며  
 firewall의 동작은 /etc/firewalld/firewalld.conf에서 지정할 수 있습니다.
 
 
