@@ -369,7 +369,7 @@ Threads: 1  Questions: 11  Slow queries: 0  Opens: 115  Flush tables: 1  Open ta
 <br/>
 <br/>
 
-#### 정상적으로 적용되어 있는 것을 볼 수 있습니다.
+### 이제 MySQL을 사용할 수 있습니다.
 
 <br/>
 <br/>
