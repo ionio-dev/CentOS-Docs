@@ -9,7 +9,7 @@ Apache를 컴파일 설치하기 이전에 openssl 버전 및 지원내용을 �
 현재 진행 중인 프로젝트에서는 openssl-1.0.2k가 기본 설치되어 있는데 공식 홈페이지에서는  
 현재 날짜(2019.11)를 기준으로 LTS 버전(1.0.2 시리즈)은 2019 년 12 월 31 일까지만  
 지원되기 때문에 최신 안정 버전인 1.1.1 버전으로 업그레이드하는 것을 권장한다고 합니다.  
-- OpenSSL 버전 업그레이드 방법은 [여기](https://github.com/ionio-dev/Dev-Docs/tree/master/OperatingSystem/Linux/Redhet/CentOS/CentOS-Linux-release-7.7.1908-(Core)-DVD/Reference/OpenSSL/OpenSSL_Guide.md)를 참조하십시오.
+- OpenSSL 버전 업그레이드 방법은 [여기](https://github.com/ionio-dev/Dev-Docs/blob/master/CentOS-Linux-release-7.7.1908-(Core)-DVD/guide/preferences/openssl_settings.md)를 참조하십시오.
 
 <br/>
 <br/>
@@ -217,4 +217,5 @@ systemctl status apache
 <br/>
 <br/>
 
-### 이제 Apache를 사용할 수 있습니다.
+# 이제 Apache를 사용할 수 있습니다.
+<br/>
