@@ -12,8 +12,4 @@
 <hr/>
 <br/>
 
-## 현재 생성된 레퍼런스
-- Operating System
-  - Linux
-    - Redhet
-      - [CentOS](https://github.com/ionio-dev/Dev-Docs/tree/master/OperatingSystem/Linux/Redhet/CentOS)
+- [CentOS installation](https://github.com/ionio-dev/Dev-Docs/blob/master/CentOS-Linux-release-7.7.1908-(Core)-DVD/guide/centos7_installation.md)
