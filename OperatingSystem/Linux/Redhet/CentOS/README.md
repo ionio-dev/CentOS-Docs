@@ -9,7 +9,7 @@
 - [CentOS 설치 가이드](https://github.com/ionio-dev/Dev-Docs/blob/master/OperatingSystem/Linux/Redhet/CentOS/Installation_Guide.md)
 - [firewall 방화벽 설정](https://github.com/ionio-dev/Dev-Docs/tree/master/OperatingSystem/Linux/Redhet/CentOS/CentOS-Linux-release-7.7.1908-(Core)-DVD/Reference/Firewall/Firewall_Guide.md)
 - [OpenSSL 설치 및 업데이트](https://github.com/ionio-dev/Dev-Docs/tree/master/OperatingSystem/Linux/Redhet/CentOS/CentOS-Linux-release-7.7.1908-(Core)-DVD/Reference/OpenSSL/OpenSSL_Guide.md)
-- [MySQL 컴파일 설치](https://github.com/ionio-dev/Dev-Docs/blob/master/OperatingSystem/Linux/Redhet/CentOS/CentOS-Linux-release-7.7.1908-(Core)-DVD/Reference/MySQL/MySQL_Guide.md)
+- [MySQL 컴파일 설치](https://github.com/ionio-dev/Dev-Docs/blob/master/OperatingSystem/Linux/Redhet/CentOS/CentOS-Linux-release-7.7.1908-(Core)-DVD/Reference/MySQL/MySQL_Setup_Guide.md)
 <br/>
 
 <hr/>
