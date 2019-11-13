@@ -6,28 +6,28 @@ RHEL 과 OS 버전, Kernel 버전, 패키지 구성이 똑같고 바이너리가
 문제 발생 시 커뮤니티를 통해 지원된다.  
 
 <br/>
+<br/>
 
-## CentOS 7.x 버전을 설치하며 겪은 경험을 바탕으로 제시하는 글입니다.
+## 해당 글은 CentOS 7.x 버전을 설치하며 겪은 경험을 바탕으로 제시하는 글입니다.
 
 설치 프로세스를 진행하는 과정에 있어 **다른 사용자들이 제시하는 가이드라인과 차이가 있을 수 있습니다.  
-CentOS를 설치하기 이전에 공식 홈페이지 또는 [Installation Guide](https://docs.centos.org/en-US/centos/install-guide) 을 읽어본 뒤에 진행하는 것을 권장합니다.**
+CentOS를 설치하기 이전에 공식 홈페이지 또는 [Installation Guide](https://docs.centos.org/en-US/centos/install-guide) 을 읽어본 뒤에 진행하는 것을 권장합니다.** 
 
-> 해당 글은 CentOS 7.x 버전을 설치하며 겪은 **경험을 바탕으로 제시하는 글**이며 설치 과정은  
-글을 적는 현시점으로부터 대부분의 버전이 설치 방법이 크게 다르지 않다고 판단되어 버전 별로  
-설치 가이드를 제시하지는 않습니다.  
-
+<br/>
 <br/>
 
 ### 1. CentOS를 다운로드하기 위해서는 [.iso](https://ko.wikipedia.org/wiki/ISO_9660)란 확장자를 가진 이미지파일(image file)이 필요합니다.
-CentOS ISO 종류는 3가지로 나누어져 있습니다.
+> 해당 프로젝트에서는 CentOS를 네이버 [미러 서버](http://mirror.navercorp.com/centos/)에서 다운로드하였습니다.
 
+<br/>
+<br/>
+
+#### CentOS ISO 종류는 3가지로 나누어져 있습니다.
 1. DVD
 2. Everything
 3. Minimal  
 
-> 설치 목적에 맞는 파일을 [다운로드](https://www.centos.org/download/)합니다.  
-Legacy 버전을 다운로드하고 싶다면 네이버에서 운영하는 미러 서버에서 [다운로드](http://mirror.navercorp.com/centos/)할 수 있습니다.  
-
+<br/>
 <br/>
 
 #### DVD
@@ -35,9 +35,10 @@ Legacy 버전을 다운로드하고 싶다면 네이버에서 운영하는 미�
 This is the recommended download for most users.  
 
 
-설치 프로그램과 대화식 설치 중에 설치할 수있는 모든 패키지 세트가 포함되어있으며  
-대부분의 사용자들에게 권장되는 다운로드입니다.
+*설치 프로그램과 대화식 설치 중에 설치할 수있는 모든 패키지 세트가 포함되어있으며  
+대부분의 사용자들에게 권장되는 다운로드입니다.*
 
+<br/>
 <br/>
 
 #### Everything
