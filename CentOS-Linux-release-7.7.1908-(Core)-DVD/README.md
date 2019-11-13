@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-## Guide
+## CentOS-Linux-release-7.7.1908-(Core)-DVD Guide
 - [CentOS install](https://github.com/ionio-dev/Dev-Docs/blob/master/OperatingSystem/Linux/Redhet/CentOS/Installation_Guide.md)
 - [Firewall settings](https://github.com/ionio-dev/Dev-Docs/blob/master/CentOS-Linux-release-7.7.1908-(Core)-DVD/guide/preferences/firewall_settings.md)
 - [OpenSSL update](https://github.com/ionio-dev/Dev-Docs/blob/master/CentOS-Linux-release-7.7.1908-(Core)-DVD/guide/preferences/openssl_settings.md)
