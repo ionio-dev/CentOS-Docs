@@ -4,7 +4,6 @@
 <br/>
 <br/>
 
-
 #### ! 필수확인
 CentOS 7(DVD) 부터는 OS 설치시 기본적으로 MariaDB가 설치되어 있습니다.  
 MariaDB가 설치되있는 상태로 MySQL 컴파일 설치를 진행하게 된다면 라이브러리  
@@ -18,11 +17,9 @@ MariaDB가 설치되있는 상태로 MySQL 컴파일 설치를 진행하게 된�
 ```
 rpm -qa | maraidb
 ```
+
 <br/>
-
-![MySQL_1.PNG](../../../Resource/Images/MySQL/MySQL_1.PNG)
-
-
+<br/>
 
 #### MariaDB 제거
 ```
@@ -369,7 +366,7 @@ Threads: 1  Questions: 11  Slow queries: 0  Opens: 115  Flush tables: 1  Open ta
 <br/>
 <br/>
 
-### 이제 MySQL을 사용할 수 있습니다.
+# 이제 MySQL을 사용할 수 있습니다.
 
 <br/>
 <br/>
