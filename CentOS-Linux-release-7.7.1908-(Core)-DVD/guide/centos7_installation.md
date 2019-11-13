@@ -152,117 +152,109 @@ DD 이미지 모드로 쓰기를 이용하여 재시도 하십시오.
 <br/>
 
 ![CentOS7_install_1.PNG](../images/CentOS7_install_1.PNG)
-
-<br/>
-
 > 정상적으로 부팅이 된다면 아래와 같은 화면이 출력됩니다.  
 키보드 방향 키를 사용하여 Install CentOS를 선택한 뒤 Enter 키를 누릅니다.
 
 <br/>
 <br/>
-
-![CentOS7_install_2.PNG](../images/CentOS7_install_2.PNG)
-
+<br/>
 <br/>
 
+![CentOS7_install_2.PNG](../images/CentOS7_install_2.PNG)
 > 언어 설정은 한국어 또는 경우에 따라 원하는 언어로 지정합니다.
 
 <br/>
 <br/>
-
-![CentOS7_install_3.PNG](../images/CentOS7_install_3.PNG)
-
+<br/>
 <br/>
 
+![CentOS7_install_3.PNG](../images/CentOS7_install_3.PNG)
 > 날짜 & 시간, 키보드, 언어 지원 이 세 가지 항목은 사용하는 현지에 따라 알맞게 설정합니다.
 
 <br/>
 <br/>
-
-![CentOS7_install_4.PNG](../images/CentOS7_install_4.PNG)
-
+<br/>
 <br/>
 
+![CentOS7_install_4.PNG](../images/CentOS7_install_4.PNG)
 > 소프트웨어 선택을 클릭합니다.
 
 <br/>
 <br/>
-
-![CentOS7_install_5.PNG](../images/CentOS7_install_5.PNG)
-
+<br/>
 <br/>
 
+![CentOS7_install_5.PNG](../images/CentOS7_install_5.PNG)
 > 최소 설치 및 [세부옵션](https://www.tecmint.com/centos-7-5-installation-guide/)을 체크합니다. 해당 게시글은 최소 설치 옵션으로 설치를 진행함으로  
 사용자의 목적에 따라서 설정을 변경 후 완료 버튼을 클릭합니다.  
 
 <br/>
 <br/>
-
-![CentOS7_install_6.PNG](../images/CentOS7_install_6.PNG)
-
+<br/>
 <br/>
 
+![CentOS7_install_6.PNG](../images/CentOS7_install_6.PNG)
 > 설치 대상을 클릭 하면 해당 화면으로 이동이 됩니다. OS 및 파티션 설정을 할 디스크를 선택한 뒤  
 기타 저장소 옵션에서 자동으로 설정 또는 파티션 설정(수동)을 선택한 뒤 완료 버튼을 클릭합니다.  
 
 <br/>
 <br/>
-
-![CentOS7_install_7.PNG](../images/CentOS7_install_7.PNG)
-
+<br/>
 <br/>
 
-- **사진7** 수동으로 파티션을 설정할 경우
-> 파티션 설정을 선택한 뒤 완료 버튼을 클릭했다면 해당 화면에서 수동으로 설정하는 화면으로 이동됩니다.  
-해당 화면에서 + 버튼을 클릭하여 파티션 옵션을 설정할 수 있습니다. 설정한 뒤 변경사항 체크 후  
-적용을 클릭합니다.  
+![CentOS7_install_7.PNG](../images/CentOS7_install_7.PNG)
+> 수동으로 파티션을 설정할 경우 파티션 설정을 선택한 뒤 완료 버튼을 클릭했다면 수동 설정하는  
+화면으로 이동됩니다. 해당 화면에서 + 버튼을 클릭하여 파티션 옵션을 설정할 수 있습니다.   
 
+<br/>
+<br/>
 
 **1. /boot : 부팅에 필요한 파일이 저장되는 파티션입니다.**  
 
+<br/>
 
 **2. /boot/efi : UEFI / EFI 부팅을 사용할 때 필요한 파일이 저장되는 파티션입니다.**  
 > 2-1. UEFI / EFI를 사용하지 않고 레거시 BIOS 방식을 사용하신다면 해당 파티션은 생성되지 않습니다.  
 
+<br/>
 
 **3. / : root 디렉터리입니다. 리눅스의 시스템 파일, 사용자 파일, 서비스 등이 설치되는 파티션입니다.**  
 > 3-1. 디스크 용량이 큰 경우 home 디렉터리를 분리한다던가 원하시는 데로 구성할 수 있습니다.  
 
+<br/>
 
 **4. /swap : 리눅스의 가상 메모리입니다.**  
 > 4-1. 리눅스에서 물리적 메모리(RAM)의 용량이 가득 차게 될 경우 사용되는 여유 공간입니다.  
 
+<br/>
 
 **5. /home : 사용자의 홈 디렉터리입니다.**  
 
 <br/>
 <br/>
-
-![CentOS7_install_8.PNG](../images/CentOS7_install_8.PNG)
-
+<br/>
 <br/>
 
-> 네트워크 & 호스트 설정을 클릭하시면 이더넷 설정을 하실 수 있습니다.
-이더넷 설정을 하지 않고 설치를 진행할 수 있으며 설치가 완료된 뒤에  
-수동으로 CLI 또는 GUI 환경에서 이더넷을 설정할 수 있습니다.  
+![CentOS7_install_8.PNG](../images/CentOS7_install_8.PNG)
+> 네트워크 & 호스트 설정을 클릭하시면 이더넷 설정을 하실 수 있습니다. 이더넷 설정을  
+하지 않고 설치를 진행할 수 있으며 설치가 완료된 뒤에도 수동으로 이더넷을 설정할 수 있습니다.  
 
-
-*호스트 이름도 이곳에서 변경할 수 있습니다.  
-원하는 호스트 이름을 적은 뒤 저장 버튼을 클릭합니다..*
-
+<br/>
 
 **만약 고정(범용) IP를 사용한다면 해당 창에서 설정 버튼을 클릭합니다.**
 
 <br/>
 <br/>
-
-![CentOS7_install_9.PNG](../images/CentOS7_install_9.PNG)
-
+<br/>
 <br/>
 
+![CentOS7_install_9.PNG](../images/CentOS7_install_9.PNG)
 > 고정(범용) IP를 사용하기 위해서 설정 버튼을 클릭하면 해당 화면이 나옵니다.  
 이 창에서 원하는 기재 사항 및 옵션을 설정한 뒤에 저장을 눌러줍니다.
 
+<br/>
+<br/>
+<br/>
 <br/>
 
 ### 설치 시작을 눌러줍니다.
@@ -271,53 +263,45 @@ DD 이미지 모드로 쓰기를 이용하여 재시도 하십시오.
 <br/>
 
 ![CentOS7_install_10.PNG](../images/CentOS7_install_10.PNG)
-
-<br/>
-
 > 설치가 진행되는 동안 화면에서 root 암호 및 사용자를 생성할 수 있습니다.
 
 <br/>
 <br/>
-
-![CentOS7_install_11.PNG](../images/CentOS7_install_11.PNG)
-
+<br/>
 <br/>
 
->  설정이 완료되면 느낌표가 사라집니다.
+![CentOS7_install_11.PNG](../images/CentOS7_install_11.PNG)
+> 설정이 완료되면 느낌표가 사라집니다.
 
+<br/>
+<br/>
 <br/>
 <br/>
 
 ![CentOS7_install_12.PNG](../images/CentOS7_install_12.PNG)
-
-<br/>
-
 > 설치가 정상적으로 완료되면 재부팅 버튼을 클릭합니다.
 
 <br/>
 <br/>
-
-![CentOS7_install_13.PNG](../images/CentOS7_install_13.PNG)
-
+<br/>
 <br/>
 
+![CentOS7_install_13.PNG](../images/CentOS7_install_13.PNG)
 > 부팅 커널을 선택해 줍니다. (rescue 부팅은 복구모드 입니다.)
 
 <br/>
 <br/>
-
-![CentOS7_install_14.PNG](../images/CentOS7_install_14.PNG)
-
+<br/>
 <br/>
 
+![CentOS7_install_14.PNG](../images/CentOS7_install_14.PNG)
 > 생성한 사용자 또는 root 로 로그인합니다.
 
+<br/>
+<br/>
 <br/>
 <br/>
 
 # 이제 CentOS를 사용할 수 있습니다.
 
 <br/>
-
-
-
