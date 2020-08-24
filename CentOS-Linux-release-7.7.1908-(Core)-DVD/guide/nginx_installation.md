@@ -70,7 +70,7 @@ cd /home/user/nginx/sbin
 <br/>
 <br/>
 
-# 이제 Node JS 를 사용할 수 있습니다. 
+# 이제 Nginx 를 사용할 수 있습니다. 
 <br/>
 <br/>
 
