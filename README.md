@@ -21,4 +21,5 @@
 - [Java(OpenJDK) install](https://github.com/ionio-dev/CentOS-Docs/blob/master/CentOS-Linux-release-7.7.1908-(Core)-DVD/guide/java_installation.md)
 - [Apache install](https://github.com/ionio-dev/Dev-Docs/blob/master/CentOS-Linux-release-7.7.1908-(Core)-DVD/guide/apache_installation.md)
 - [Apache Tomcat install](https://github.com/ionio-dev/CentOS-Docs/blob/master/CentOS-Linux-release-7.7.1908-(Core)-DVD/guide/apache_tomcat_installation.md)
+- [Jenkins install](https://github.com/ionio-dev/CentOS-Docs/blob/master/CentOS-Linux-release-7.7.1908-(Core)-DVD/guide/jenkins_installation.md)
 <br/>
