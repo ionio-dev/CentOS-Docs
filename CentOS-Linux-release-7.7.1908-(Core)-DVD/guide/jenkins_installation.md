@@ -1,2 +1,2 @@
-# Jenkins Tomcat
+# Jenkins
 > 테스트
