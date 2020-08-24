@@ -1,5 +1,5 @@
 # Apache Tomcat
-> 해당 가이드에는 Apache Tomcat 8.0.x 컴파일 설치를 방법이 기재되어 있습니다.  
+> 해당 가이드에는 Apache Tomcat 8.0.x 컴파일 설치 방법이 기재되어 있습니다.  
 다른 버전을 설치해야 한다면 [Apache Archive](http://archive.apache.org/dist/tomcat/)를 참조하십시오.
 
 <br/>
