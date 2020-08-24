@@ -32,7 +32,9 @@ cd nginx-1.6.2
 --prefix=/home/user/nginx \
 --user=daemon \
 --group=daemon \
---with-openssl=/usr/bin
+--with-openssl=/usr/bin \
+--without-http_rewrite_module \
+--without-http_gzip_module
 ```
 
 <br/>
