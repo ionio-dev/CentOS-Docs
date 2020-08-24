@@ -13,7 +13,8 @@ gcc 설치 가이드는 [여기](https://github.com/ionio-dev/CentOS-Docs/blob/m
 <br/>
 
 #### Node JS 를 다운로드 합니다.
-> 다운로드 경로는 서버를 구성하는 목적에 따라 달라질 수 있으며 해당 프로젝트는 /home/user/download 하위 디렉터리에 다운로드 합니다.
+> 다운로드 경로는 서버를 구성하는 목적에 따라 달라질 수 있으며 해당 프로젝트는   
+/home/user/download 하위 디렉터리에 다운로드 합니다.
 ```
 wget https://nodejs.org/download/release/v12.13.1/node-v12.13.1.tar.gz
 tar xfz node-v12.16.1.tar.gz
