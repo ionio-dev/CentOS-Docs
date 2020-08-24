@@ -13,7 +13,8 @@ tomcat 설치 가이드는 [여기](https://github.com/ionio-dev/CentOS-Docs/blo
 <br/>
 
 #### Jenkins 를 다운로드 합니다.
-> 다운로드 경로는 서버를 구성하는 목적에 따라 달라질 수 있으며 해당 프로젝트는 /home/user/download 하위 디렉터리에 다운로드 합니다.
+> 다운로드 경로는 서버를 구성하는 목적에 따라 달라질 수 있으며 해당 프로젝트는   
+/home/user/download 하위 디렉터리에 다운로드 합니다.
 ```
 wget http://mirrors.jenkins.io/war-stable/latest/jenkins.war
 ```
