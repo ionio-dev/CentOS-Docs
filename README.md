@@ -23,5 +23,5 @@
 - [Apache Tomcat install](https://github.com/ionio-dev/CentOS-Docs/blob/master/CentOS-Linux-release-7.7.1908-(Core)-DVD/guide/apache_tomcat_installation.md)
 - [Jenkins install](https://github.com/ionio-dev/CentOS-Docs/blob/master/CentOS-Linux-release-7.7.1908-(Core)-DVD/guide/jenkins_installation.md)
 - [GCC, G++ install](https://github.com/ionio-dev/CentOS-Docs/blob/master/CentOS-Linux-release-7.7.1908-(Core)-DVD/guide/gcc_installation.md)
-- [Node JS install](https://github.com/ionio-dev/CentOS-Docs/tree/master/CentOS-Linux-release-7.7.1908-(Core)-DVD/guide)
+- [Node JS install](https://github.com/ionio-dev/CentOS-Docs/blob/master/CentOS-Linux-release-7.7.1908-(Core)-DVD/guide/node_js_installation.md)
 <br/>
