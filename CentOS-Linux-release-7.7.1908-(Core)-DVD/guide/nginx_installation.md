@@ -32,9 +32,10 @@ cd nginx-1.6.2
 --prefix=/home/user/nginx \
 --user=daemon \
 --group=daemon \
---with-openssl=/usr/bin \
---without-http_rewrite_module \
---without-http_gzip_module
+--with-openssl=/usr/local/src/openssl-1.1.1d (openssl 경로) \
+--with-zlib=/usr/local/src/zlib-1.2.11 (zlib 경로) \
+--with-pcre=/usr/local/src/pcre-8.44 (pcre 경로) \
+--with-http_ssl_module 
 ```
 
 <br/>
